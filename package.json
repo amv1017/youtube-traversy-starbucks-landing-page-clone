@@ -1,0 +1,10 @@
+{
+  "name": "youtube-traversy-starbucks-landing-page-clone",
+  "license": "MIT",
+  "scripts": {
+    "dev": "wmr --port 3000"
+  },
+  "devDependencies": {
+    "wmr": "^3.7.2"
+  }
+}
